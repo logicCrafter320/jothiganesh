@@ -33,7 +33,7 @@ Check out my repositories for code examples and mini-projects!
 ## 📬 Connect with me
 - 📍 India
 - 🌐 [My Portfolio](#) (you can add a Notion or GitHub Pages link)
-- 📧 Email: jothiganeshguntu@gmail.com (optional or leave blank)
+- 📧 Email: your-email@example.com (optional or leave blank)
 
 ---
 
